@@ -1,6 +1,10 @@
 Change 1 : Bug branch
 
+<<<<<<< HEAD
 Change 2 : master change
 
 change 3 : Idea change
+=======
+change 4 : bug123 change
+>>>>>>> 11ea653... Bug123 file changed
 
