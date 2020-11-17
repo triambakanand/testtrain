@@ -1,7 +1,6 @@
 Change 1 : Bug branch
 
-<<<<<<< HEAD
 Change 2 : master change
-=======
-change 2 : Idea change
->>>>>>> 125abac... Idea branch change
+
+change 3 : Idea change
+
